@@ -1,4 +1,4 @@
-# Vehicle Trip Analysis Dashboard
+# Logistics Analysis Dashboard
 
 End-to-end analysis of Vehicle Trip and Vehicle Master data.
 Project covers: **Data Cleaning in Excel** → **DAX Modeling in Power BI** → **Interactive Dashboard**
